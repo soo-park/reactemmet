@@ -1,6 +1,6 @@
-# react-emmet README
+# reactemmet README
 
-This is the README for your extension "react-emmet". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "reactemmet". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
